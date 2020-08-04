@@ -76,7 +76,7 @@ function truncateString(str, num, suf) {
       gist_id: gistId,
       files: {
         [filename]: {
-          filename: `🎵 My last week in music`,
+          filename: `🎵 我上周听的歌`,
           content: lines.join('\n'),
         },
       },
